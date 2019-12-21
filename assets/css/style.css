@@ -1,9 +1,5 @@
 body{
-<<<<<<< HEAD
     background-image: url(https://raw.githubusercontent.com/DrLer0/Unit-4-Game/master/assets/images/subtle_orange_emboss.png);
-=======
-    background-image: url(https://github.com/DrLer0/Unit-4-Game/blob/master/assets/images/subtle_orange_emboss.png);
->>>>>>> 2d7c6930864d026e09854a0850971a95656bc90f
 }
 .container{
     margin: 0;
