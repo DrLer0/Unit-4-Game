@@ -1,0 +1,49 @@
+body{
+    background-image: url(assets/images/subtle_orange_emboss.png);
+}
+.container{
+    margin: 0;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.box{
+    display: flex;
+}
+h1{
+    font-family: 'MedievalSharp', cursive;
+}
+h2{
+    max-width: 100px;
+    margin-top: 27px;
+}
+h3{
+    font-family: 'Marck Script', cursive;
+}
+div{
+    font-family: 'MedievalSharp', cursive;
+}
+#randomNumber, #scorebox{
+    /* float: left; */
+    /* align-self: center; */
+}
+#randomNumber{
+    width: 100px;
+    text-align: center;
+}
+#scorebox{
+    width: 100px;
+    text-align: left;
+    height: 100px;
+}
+#crystalBox{
+    /* clear: left; */
+    max-width: 210px;
+}
+img{
+    width: 77px;
+    height: 99px;
+}
+#totalScore{
+    align-self: center;
+    margin-top: 0px;
+}
