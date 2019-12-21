@@ -5,6 +5,7 @@ body{
     margin: 0;
     padding-left: 20%;
     padding-right: 20%;
+    height: 75%;
 }
 .box{
     display: flex;
@@ -22,10 +23,6 @@ h3{
 div{
     font-family: 'MedievalSharp', cursive;
 }
-#randomNumber, #scorebox{
-    /* float: left; */
-    /* align-self: center; */
-}
 #randomNumber{
     width: 100px;
     text-align: center;
@@ -38,6 +35,10 @@ div{
 #crystalBox{
     /* clear: left; */
     max-width: 210px;
+}
+button{
+    background-color: transparent;
+    border-color: transparent;
 }
 img{
     width: 77px;
